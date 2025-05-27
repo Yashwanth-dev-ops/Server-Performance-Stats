@@ -23,6 +23,10 @@ System uptime.
 
 Load average.
 
+Installation
+Clone the repository to your local machine:
+
+
 Logged-in users.
 
 Failed login attempts.
